@@ -10,3 +10,5 @@ streamlit.text('dont know what this is: 🥗')
 streamlit.text('chicken broth: 🐔')
 streamlit.text('avocado!: 🥑')
 streamlit.text('lastly, bread: 🍞')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
