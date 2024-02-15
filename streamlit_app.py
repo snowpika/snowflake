@@ -32,6 +32,5 @@ fruityvice_normalized = pandas.json_normalize(fruityvice_response.json())
 # write your own comment - what does this do?
 streamlit.dataframe(fruityvice_normalized)
 
-pkg_resources.require("urllib3==1.24.1")
-import urllib3
+import urllib3 == 1.24.1
 import snowflake.connector
